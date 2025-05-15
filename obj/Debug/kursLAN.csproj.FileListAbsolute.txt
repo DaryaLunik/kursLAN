@@ -1,0 +1,14 @@
+C:\Users\Hitech\source\repos\kursLAN\bin\Debug\kursLAN.exe.config
+C:\Users\Hitech\source\repos\kursLAN\bin\Debug\kursLAN.exe
+C:\Users\Hitech\source\repos\kursLAN\bin\Debug\kursLAN.pdb
+C:\Users\Hitech\source\repos\kursLAN\obj\Debug\kursLAN.csproj.AssemblyReference.cache
+C:\Users\Hitech\source\repos\kursLAN\obj\Debug\kursLAN.csproj.CoreCompileInputs.cache
+C:\Users\Hitech\source\repos\kursLAN\obj\Debug\kursLAN.exe
+C:\Users\Hitech\source\repos\kursLAN\obj\Debug\kursLAN.pdb
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\bin\Debug\kursLAN.exe.config
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\bin\Debug\kursLAN.exe
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\bin\Debug\kursLAN.pdb
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\obj\Debug\kursLAN.csproj.AssemblyReference.cache
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\obj\Debug\kursLAN.csproj.CoreCompileInputs.cache
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\obj\Debug\kursLAN.exe
+C:\Users\Hitech\OneDrive\Рабочий стол\КУРСОВАЯ\KOD\obj\Debug\kursLAN.pdb
